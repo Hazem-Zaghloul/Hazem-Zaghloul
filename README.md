@@ -16,14 +16,14 @@
 ### Connect with Me :
 
 <a href="www.linkedin.com/in/hazem-zaghloul🇵🇸-5481a9304" target="_blank"><img src="https://img.shields.io/badge/-Hazem%20Zaghloul-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100007136554897" target="_blank"><img src="https://img.shields.io/badge/-Hazem%20Zaghloul-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
-<a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-
+![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=blue)&nbsp;
+![C++](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=blue)&nbsp;
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
