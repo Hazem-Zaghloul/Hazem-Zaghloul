@@ -15,7 +15,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/hazem-zaghloul🇵🇸-5481a9304" target="_blank"><img src="https://img.shields.io/badge/-Hazem%20Zaghloul-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hazem-zaghloul%F0%9F%87%B5%F0%9F%87%B8-5481a9304/" target="_blank"><img src="https://img.shields.io/badge/-Hazem%20Zaghloul-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100007136554897" target="_blank"><img src="https://img.shields.io/badge/-Hazem%20Zaghloul-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 
